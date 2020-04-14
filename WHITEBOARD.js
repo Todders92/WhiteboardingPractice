@@ -26,6 +26,7 @@ console.log(sleepyBear.sound());
 
 
 //////////////////////////////////////
+// Prompt #3
 // Compose a function called throw ().The throw () function should determine the 
 // distance and speed a battle robot can throw a spear.This function should be unary, so you will need to use currying.
 // battleRobot1.throw();
